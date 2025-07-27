@@ -23,7 +23,12 @@ In today’s fast-paced digital commerce world, customer-centric innovation is v
 ## Links
 
 - github link: https://github.com/ankurdhuriya/SentimentBasedProductRecommendation
-- Deployed link:
+- Deployed link: https://productrecommendationsystem-1.onrender.com
+
+## Screenshots
+
+![Screenshot 1](screenshot-2.png)
+![Screenshot 2](screenshot-1.png)
 
 ## 🔍 Workflow Breakdown
 
